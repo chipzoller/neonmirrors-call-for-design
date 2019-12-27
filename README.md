@@ -1,4 +1,4 @@
-# neonmirrors-call-for-design
+# Neon Mirrors Call for Design
 A public request for a graphic design for Neon Mirrors blog.
 
 ---
