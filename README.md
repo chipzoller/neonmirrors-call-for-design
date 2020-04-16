@@ -18,7 +18,7 @@ With some of the background out of the way, here are some notes on what I'm look
 
 * Elegant, modern, quasi-minimalistic design
 * Intelligent, intellectual
-* Standard, rectangular-type logo similar to 
+* Standard, rectangular-type logo similar to [here](2020-04-16.png) and [here](2020-04-16-1.png)
 * Calm but beautiful
 * Possibly incorporate some themes from Maurice Ravel's work, influences, time period, etc.
 * Thoughtful color palette 
