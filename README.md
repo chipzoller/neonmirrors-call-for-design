@@ -1,5 +1,5 @@
 # Neon Mirrors Call for Design
-A public request for a graphic design for Neon Mirrors blog.
+Design criteria for Neon Mirrors blog.
 
 ---
 Hi and thanks for seeing if you can help me out here. I'm looking for a graphic artist to design a logo and brand for my new personal blog called Neon Mirrors. The name sounds a little odd so let me explain what this means and a bit about who I am so that it may help you in your creative design process.
@@ -18,7 +18,7 @@ With some of the background out of the way, here are some notes on what I'm look
 
 * Elegant, modern, quasi-minimalistic design
 * Intelligent, intellectual
-* ~1600 x 500 format image (precise dimensions I don't yet know)
+* Standard, rectangular-type logo similar to 
 * Calm but beautiful
 * Possibly incorporate some themes from Maurice Ravel's work, influences, time period, etc.
 * Thoughtful color palette 
@@ -35,20 +35,6 @@ With some of the background out of the way, here are some notes on what I'm look
 * Basic "music notes scattered everywhere". I'm not opposed to using some very strategic piece of music, but if you're not a musician and/or don't understand what you're putting in there, don't. I'm not opposed to using a small fragment as a layer (again, has to be strategically, thoughtfully used), but what I don't want is things used just for look with no meaning.
 * Cheap, chinsy design 
 * Designs with a literal mirror in them. See earlier points about being cheap and obvious.
-
-### What I Would Like From You
-
-Before immediately accepting this job, I would like to see an online portfolio showcasing as many of **your** designs as possible (not those from a company you may represent). Please don't send me raw images over email, Twitter, Slack, etc. If you don't have a formal portfolio of works to present to prospective clients, I'm afraid I'll have to pass.
-
-### How I'm Willing To Engage
-
-I realize that many designers ask for partial payment up front, whether that is a deposit of half the projected amount or some other fee. This isn't going to work for me, primarily because I don't want to commit to one designer simply seeing works they've done for *other* people. This gives me no assurances you'll understand me, my needs, and what I'm looking for. Moreover, I can't tell you exactly what I want or give specifics on the precise design. If I could, I certainly would, but that's why I'm trying to find that special design that really "clicks" for me. I hope you understand that I'm not attempting to find ways to get something for free or avoid paying you entirely, because that's not who I am.
-
-As a middle ground, I would recommend presenting one or more rough sketches of your ideas so I feel comfortable that the vision you have is similar to my ideals. It can be on the back of a bar napkin and snapped with your phone. I don't care. But I want to see something before I commit to paying for anything. You don't have to spend hours let alone days slaving away over your computer. Just get me **something** so I can determine if I want to move forward with you or not. And if I don't, please don't take it personally. It just may mean you and I may not be a fit for each other.
-
-### Money Terms
-
-I am expecting to pay something up to around $500 for a design that is truly magnificent, inspired, informed, and takes into consideration (and displays) the points I've mentioned above. However, for the right person and right design, I'm not only willing to go above this, but use you as the sole artist to expand into other areas of this blog including more logo design, image and graphic design, font design, and possibly an upcoming (hopeful) project around designing a whole theme based on the Hugo framework.
 
 ### Closing
 
